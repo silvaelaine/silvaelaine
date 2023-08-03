@@ -1,20 +1,21 @@
-### Oi, sou Elaine! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-<img align="right" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" alt="Coder GIF" height="220">
-<hr/>
+<h4 align="center"><samp> Hello, there 👋🏾  welcome to my Github! I'm a Software Engineering student and a certified Data Analyst. I'm currently doing the Machine Learning Specialization by Andrew Ng. 🐍 ☁️ </samp></h4>
 
-- 🎖 Sou uma Analista de Dados certificada pela Google que ama solucionar problemas usando dados.<br />
-- 🌱 Atualmente estou fazendo a especialização em Machine Learning do Andrew Ng.<br />
-- ✍ Amo escrever artigos no [Medium](https://medium.com/@lainetnr) sobre projetos realizados e assuntos que aprendi.<br />
-- 💻 Sou graduanda em Engenharia de Software.<br />
-- 🎯 Meta (2023): Conseguir meu primeiro estágio em Dados.<br />
-<br/>
-<hr/>
+<p align="center">
+  <img width="250" src="https://media.tenor.com/hVmM21uY9hEAAAAM/homer-simpson.gif">
+</p>
 
 
 
-### 🧧 Entre em contato comigo:
-<div>
-<a href="https://www.linkedin.com/in/euelainesilva/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.kaggle.com/lainetnr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-
+</div>
+<div align='center'>
+<a href='https://www.linkedin.com/in/euelainesilva/'>
+    <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/linkedin.png"/>
+</a>
+ ╹
+ <a href='https://medium.com/@lainetnr'>
+    <img width="26" height="26" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png"/>
+</a>
+ ╹
+  <a href='https://www.kaggle.com/lainetnr'>
+    <img width="26" height="26" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/kaggle_logo_icon_145140.png"/>
 </div>
