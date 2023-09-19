@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   welcome to my Github! I'm a Software Engineering student and a certified Data Analyst. I'm currently doing Coursera's Machine Learning course by Andrew Ng. I also like writing about my projects or things I have learned on Medium. </samp></h4>
+<h4 align="center"><samp> Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   welcome to my Github! I am an undergraduate Software Engineering student and Data Science autodidact student. I also like writing about my projects or things I have learned on Medium. </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.tenor.com/hVmM21uY9hEAAAAM/homer-simpson.gif">
