@@ -1,11 +1,7 @@
-<h1 align="center">welcome to my world</h1>
-
-
-<br>
-<h1>hello, it's me 🙋</h1>
+# 🚀 about
 
 - 📚 data nerd & i heart the nlp & llm area
-- 🎀 career n life goal: develop the skills to be able to approach a problem in an analytical mindset. 
+- 💬 my goal is to be a professional who designs and builds computer systems that can process, analyze, and generate natural language.
 - 📝 writing articles on Medium is my hobby
 - 🔥 fun fact: i can't live without music. i breath music
 - 🤙 more about me:
@@ -24,13 +20,14 @@
 </div>
 
 
-<h1>daily life</h1>
 
-- ✍ i love reading/writing
-- 🚲 riding a bike improve my life
-- 🎥 i love sky photography and capture dramatic skies
-- 🔭 i have a lot interest in astronomy
-- 🎵 music, music and more music | check my scrobbles bro [Last.fm](https://www.last.fm/user/teudoongie)
+# 📝 recent articles
+
+- [Como funcionam os Chatbots baseados em PNL?](https://medium.com/@lainetnr/como-funcionam-os-chatbots-baseados-em-pnl-2a21878dd8ef)
+- [PLN — Pré-processamento de texto](https://medium.com/@lainetnr/pln-pré-processamento-de-texto-315238b1f6cd)
+- [Processos ETL e ELT.](https://medium.com/@lainetnr/processos-etl-e-elt-03b74ffb67cd)
+- [A arte da adivinhação com teste A/B](https://medium.com/@lainetnr/a-arte-da-adivinha%C3%A7%C3%A3o-com-teste-a-b-c6bc400d8a5c)
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ollglai&count=1)
 
