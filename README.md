@@ -23,10 +23,10 @@
 
 # 📝 recent articles
 
+- [Naive Bayes e a Classificação de Sentimento](https://medium.com/@lainetnr/naive-bayes-e-a-classifica%C3%A7%C3%A3o-de-sentimento-e696a123cc2d)
 - [Como funcionam os Chatbots baseados em PNL?](https://medium.com/@lainetnr/como-funcionam-os-chatbots-baseados-em-pnl-2a21878dd8ef)
 - [PLN — Pré-processamento de texto](https://medium.com/@lainetnr/pln-pré-processamento-de-texto-315238b1f6cd)
 - [Processos ETL e ELT.](https://medium.com/@lainetnr/processos-etl-e-elt-03b74ffb67cd)
-- [A arte da adivinhação com teste A/B](https://medium.com/@lainetnr/a-arte-da-adivinha%C3%A7%C3%A3o-com-teste-a-b-c6bc400d8a5c)
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ollglai&count=1)
