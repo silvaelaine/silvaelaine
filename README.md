@@ -29,6 +29,7 @@
 - [Processos ETL e ELT.](https://medium.com/@lainetnr/processos-etl-e-elt-03b74ffb67cd)
 
 
+
 # 🤖 tech stack
 
 | Languages | Backend | DevOps | ML | 
