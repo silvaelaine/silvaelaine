@@ -1,5 +1,7 @@
-# 🚀 about
+## oi, quer café? 
+<img align='right' src="https://media.giphy.com/media/wET3URacPVM9G/giphy.gif" width="230">
 
+### 🚀 astronauta em queda
 - 📚 data nerd & i heart the nlp & llm area
 - 💬 my goal is to be a professional who designs and builds computer systems that can process, analyze, and generate natural language.
 - 📝 writing articles on Medium is my hobby
@@ -20,8 +22,8 @@
 </div>
 
 
-
-# 📝 recent articles
+---
+### 📝 recent articles
 
 - [Naive Bayes e a Classificação de Sentimento](https://medium.com/@lainetnr/naive-bayes-e-a-classifica%C3%A7%C3%A3o-de-sentimento-e696a123cc2d)
 - [Como funcionam os Chatbots baseados em PNL?](https://medium.com/@lainetnr/como-funcionam-os-chatbots-baseados-em-pnl-2a21878dd8ef)
@@ -29,8 +31,8 @@
 - [Processos ETL e ELT.](https://medium.com/@lainetnr/processos-etl-e-elt-03b74ffb67cd)
 
 
-
-# 🤖 tech stack
+---
+### 🤖 tech stack
 
 | Languages | Backend | DevOps | ML | 
 |----------|----------|----------|----------|
