@@ -1,4 +1,4 @@
-## oi, quer café? 
+
 <img align='right' src="https://media.giphy.com/media/wET3URacPVM9G/giphy.gif" width="230">
 
 ### 🚀 astronauta em queda
