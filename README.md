@@ -1,7 +1,7 @@
 
 <img align='right' src="https://media.giphy.com/media/wET3URacPVM9G/giphy.gif" width="230">
 
-### 🚀 from the earth
+### 🚀 
 Não sou nada.
 
 Nunca serei nada.
@@ -11,7 +11,8 @@ Não posso querer ser nada.
 À parte isso, tenho em mim todos os sonhos do mundo.
 
 
-- 🤙 more about me:
+
+### mais sobre mim:
 </div>
 <div align='center'>
 <a href='https://www.linkedin.com/in/euelainesilva/'>
