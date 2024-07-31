@@ -2,10 +2,15 @@
 <img align='right' src="https://media.giphy.com/media/wET3URacPVM9G/giphy.gif" width="230">
 
 ### 🚀 from the earth
-- 📚 data nerd & i heart the nlp & llm area
-- 💬 my goal is to be a professional who designs and builds computer systems that can process, analyze, and generate natural language.
-- 📝 writing articles on Medium is my hobby
-- 🔥 fun fact: i can't live without music. i breath music
+Não sou nada.
+
+Nunca serei nada.
+
+Não posso querer ser nada.
+
+À parte isso, tenho em mim todos os sonhos do mundo.
+
+
 - 🤙 more about me:
 </div>
 <div align='center'>
