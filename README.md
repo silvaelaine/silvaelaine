@@ -12,7 +12,6 @@ Não posso querer ser nada.
 
 
 
-### mais sobre mim:
 </div>
 <div align='center'>
 <a href='https://www.linkedin.com/in/euelainesilva/'>
@@ -27,9 +26,15 @@ Não posso querer ser nada.
     <img width="35" height="35" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/kaggle_logo_icon_145140.png"/>
 </div>
 
+## 💡 Sobre mim 
+
+- Graduanda em Engenharia de Software e com previsão de conclusão para o segundo semestre de 2025, comecei a estudar Ciência de Dados em 2022. Conheci e comecei a estudar sobre essa área de IA após assistir alguns vídeos sobre a Nasa, astronautas e seus foguetes, consequentemente me apaixonando por dados e seus poderes. Meu objetivo é usar dados para obter insights e fazer a diferença no negócio.
+- 🖥️ Quer saber mais sobre meu trabalho? Dá uma olhada no meu portfólio [aqui](https://github.com/silvaelaine/lookatmyself).
+  
 
 ---
-### 📝 recent articles
+### 📝 Artigos técnicos e estudos
+- [Análise de Churn usando SQL & Excel](https://medium.com/@lainetnr/an%C3%A1lise-de-churn-usando-sql-excel-parte-1-2e49c7a1cafb)
 - [Selecione estrategicamente as cores para suas visualizações de dados.](https://medium.com/@lainetnr/selecione-estrategicamente-as-cores-para-suas-visualiza%C3%A7%C3%B5es-de-dados-8b038f357c34)
 - [Naive Bayes e a Classificação de Sentimento](https://medium.com/@lainetnr/naive-bayes-e-a-classifica%C3%A7%C3%A3o-de-sentimento-e696a123cc2d)
 - [Como funcionam os Chatbots baseados em PNL?](https://medium.com/@lainetnr/como-funcionam-os-chatbots-baseados-em-pnl-2a21878dd8ef)
